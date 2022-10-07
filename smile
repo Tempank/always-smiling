@@ -7,29 +7,27 @@ PlayList Update Channel Lokal Indonesia
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV HD
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV A
-http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV B
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV C
-http://nonton.wap.sh/id/009.m3u8
-
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Local", INDOSIAR HD
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV 1
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", SCTV 2
+http://nonton.wap.sh/id/009.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Local", INDOSIAR 1
+http://45.126.83.51/qwr9ew/s/s04/index.m3u8
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Local", INDOSIAR A
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Local", INDOSIAR 2
 https://etslive-2-vidio-com.akamaized.net/exp=1665159976~acl=/hls-p/ingest_10046_*/*~hmac=411e0faa30a4854b96ef351d88c56796d1353af3a9df15fe6bc7ae6260879a86/hls-p/ingest_10046_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Local", INDOSIAR B
-http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
