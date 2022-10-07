@@ -699,3 +699,33 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNQVFmQmp5ZGk2eVZEQ0dFOUpxQXZOc3JPWWFvbUhBZ01MWFJ6VWR2eWctYzF2LXpQRjk1OW1waEtpTENKTmFnczJleFhTT3Z5dXJlekxIYlVqM1ZHX2w2blprdGRIelFWRjhEM3NNRzNrTnJkckZ0QWM1ajBYT1A3WDdiSkRPVWQ5Z2x3Y0h4ZmxZQ3ZMczVDRDJHQkQtS3dRNFB2NC1vRE8xaWM1NDZOMkhRTk9ha254c2hLRlNOTEl2WEZkQ2FyeFZId0FSOVZpVWM1ZDhXc29uWDkyUnVtZWNwdmJ0SzE1THJGaU1ZU1Nob3g0eUZXMUJxaE5ObE9pWldFNmtnMVJGS3lqbzJmOGhYalBhMEc2SXBPQS1ZS0lzUW40LXBiSEZJbGFrSUhuS0liRlhJaVhocU9CeWpXdmwzbVQxSkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNQVFmQmp5ZGk2eVZEQ0dFOUpxQXZOc3JPWWFvbUhBZ01MWFJ6VWR2eWctYzF2LXpQRjk1OW1waEtpTENKTmFnczJleFhTT3Z5dXJlekxIYlVqM1ZHX2w2blprdGRIelFWRjhEM3NNRzNrTnJkckZ0QWM1ajBYT1A3WDdiSkRPVWQ5Z2x3Y0h4ZmxZQ3ZMczVDRDJHQkQtS3dRNFB2NC1vRE8xaWM1NDZOMkhRTk9ha254c2hLRlNOTEl2WEZkQ2FyeFZId0FSOVZpVWM1ZDhXc29uWDkyUnVtZWNwdmJ0SzE1THJGaU1ZU1Nob3g0eUZXMUJxaE5ObE9pWldFNmtnMVJGS3lqbzJmOGhYalBhMEc2SXBPQS1ZS0lzUW40LXBiSEZJbGFrSUhuS0liRlhJaVhocU9CeWpXdmwzbVQxSkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=8gy0iaOuya2bVjs4aaSnEQG2fJ0%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="Singapura" tvg-logo="https://cdn.ksa.my.id/cna.png",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+#Tambahan-FullHD
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="FullHD", SCTV A
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="FullHD", SCTV B
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="FullHD", SCTV C
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="FullHD", INDOSIAR A
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="FullHD", INDOSIAR B
+https://etslive-2-vidio-com.akamaized.net/exp=1665159976~acl=/hls-p/ingest_10046_*/*~hmac=411e0faa30a4854b96ef351d88c56796d1353af3a9df15fe6bc7ae6260879a86/hls-p/ingest_10046_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="FullHD", INDOSIAR C
+http://golive.yn.lt/live/afc/01.m3u8
