@@ -8,7 +8,6 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://nonton.wap.sh/id/009.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -701,10 +700,10 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
-#Bola
+#Tambahan
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Bola", Bola
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Sports", Soccer IDN
 https://etslive-2-vidio-com.akamaized.net/exp=1665159976~acl=/hls-p/ingest_10046_*/*~hmac=411e0faa30a4854b96ef351d88c56796d1353af3a9df15fe6bc7ae6260879a86/hls-p/ingest_10046_720p/index.m3u8
