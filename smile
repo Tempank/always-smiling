@@ -1,12 +1,17 @@
-PlayList IPTV
+PlayList Update Channel Lokal Indonesia
 #Lokal-Channel
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="National TV", SCTV
 http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://nonton.wap.sh/id/009.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1665159976~acl=/hls-p/ingest_10046_*/*~hmac=411e0faa30a4854b96ef351d88c56796d1353af3a9df15fe6bc7ae6260879a86/hls-p/ingest_10046_720p/index.m3u8
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
@@ -15,11 +20,13 @@ http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 #EXTINF:0 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV",Net TV
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://k.ksa.my.id/ksa.m3u8?a=5df81fef629ea749jklm&b=b162fba1d223a5b01234&c=0c906a498274137f5678
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI
 https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -63,6 +70,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="https://cdn.ksa.my.id/metrotv.png" group-title="National TV",Metro TV
 https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -73,6 +81,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV",Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 http://210.210.155.35/qwr9ew/s/s104/02.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/cnnindo.png",CNN INDONESIA
@@ -81,7 +90,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/cnbcindonesia.png",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b384000_sleng.m3u8
-#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/magna.png",Magna Channel 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8
@@ -121,12 +131,15 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://cdn.ksa.my.id/bs.png" group-title="National TV",Berita Satu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bsworld.png" group-title="National TV", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/jakartaglobenews.png" group-title="National TV", Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bizkids.png" group-title="National TV", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1671843579_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -136,6 +149,18 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bizadventure.png" group-title="National TV", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w1434472668_b5256000_slen.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/2/29/BMSTV_2016.png/revision/latest?cb=20210417161648" group-title="National TV",Banyumas TV
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/9/96/Globaltv_sport.png/revision/latest?cb=20220909150933" group-title="National TV",Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://id.wikipedia.org/wiki/Jawa_Pos_TV#/media/Berkas:Jawa_Pos_TV_2021.png" group-title="National TV",Jawa Pos TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Jogja_TV_hijau.png" group-title="National TV",Jogja Istimewa TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 
 #Entertainment
@@ -570,6 +595,9 @@ https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/rodjatv.png" group-title="Religi",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/a/ad/TvG_%282002%29.svg/revision/latest/scale-to-width-down/1000?cb=20220918083229" group-title="Religi",Adi TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 
 #Knowledge
