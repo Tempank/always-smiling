@@ -182,7 +182,7 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Jogjatv3d.png/revision/latest?cb=20200927111247" group-title="Local",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local",TATV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="Local",TATV
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 
 
