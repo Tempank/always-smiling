@@ -124,7 +124,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/M_Shop_%282021%29.svg/revision/latest?cb=20210613074337" group-title="Local",MNC Shop
+#EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MNC_logo.png/800px-MNC_logo.png" group-title="Local",MNC Shop
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
