@@ -317,7 +317,7 @@ https://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPre
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="AsianFoodNetwork.Id" tvg-logo="https://cdn.ksa.my.id/afn.png" group-title="Lifestyle",AFN
-https://stream-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+https://liveaneviadev.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -340,15 +340,14 @@ https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://cdn.ksa.my.id/aniplus.png" group-title="Kids",Aniplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Dreamworks Channel Asia
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",ZOOMOEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb553e1e796c648b9dd43e61d6ef41a9da24d3b02a6f9e6c33f6058870df1f499ddba89db914a82b4ce17bce600a73515677ac40807a05ccce32ae552d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e753a9fb204f86953c588148b612995adcd02682b0b1dc64258e6a740a0f9f128118f73a0b11456953144e38440d7d118a994d75d9a118322f914809aa2d8870d8387c437b45eb7370c15212b9fd62bc19b0fb48ac93a0bb21b5a2ecbd6efd9f1d3777eee6a4250f9e6d8b6648d7ca4eb04b210fc3f9dfa35e0119962ab73c7ab2ef2eed357253059c4a43b0147c4c5d9ea9b5553dd26c782a3b1526f90f75b5352ca65d12c2c023c9ca1f5e5ee1a8cbf2f89b526487690d10dac94bc87e0a79e0ab2118a96a4d66d190e540d0cd009f9da758d7d943889de032d597a41afb15cd0c98c0d672c1cd0c016ff3b2f94f7c7c3d30730cf203c5feb6bd612454fc4266371e062a8ca6422d9685acb657dc859338150f5f779a6f095b6507b90dac00dae3fb7fb5a9ca756ff3f720c56c1874635724573d4e1711e7028933783fdfea126594ebc8d8294a97e31042b1841038df69519b687c33b1205ce55321a1a3513910196249f37400e2ac609c0ee6e5080152a39e9b7353f0f39162e0a335f43bcab79c84e7daa6eb19e/55/1280x720_2657600/index.m3u8
 
-#EXTINF:-1 tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/WrwsOf8.png" group-title="Kids",Dunia Games TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 tvg-id="DuniaGamesTV.id" tvg-logo="" group-title="Kids",Hip Hip Hore
+https://do3-sv3.gdplayer.to/hls/cGQ3a1hqUkdTV2tacURVb2Z4ZXpxMW5LeHhXMGR2Ull2SzFhVFk3V0lrY0JOd2R2ZXppdk9SbGhxdkVkTFJPVklrSjBTZWc0c3hpM2k5WGRZVWtJeXBXeXVRcTd2VEZkYWRaVUNKSW95QUdPRU9MV1FCUlV5VURSckdoN1UrZEo,/exp=1672797423~acl=/hls-p/ingest_7052_*/*~hmac=715efee01be4e853732e843e7172bed78bc76bbc97c26c6f2b967460f27b6c32/hls-p/ingest_7052_240p/1672795164000.ts?data=WGxqbDYyTzF2cUFXYXhQSkw3czl0bVN6eTVsOTRoNTl2bi9yZGFOdXJVRHM3NnE3bXV0TEVIazhWT0o5Z2RBZ2M0ZnhTc1lEa3UycnpRc05RbldJckVNSTJKaEN4L0M4NnFpNzdHdlAzVENTWDZ5VGVRVXdaUzF2UzcvY3JZOVA,&live=true&token=U3lBZTJjYlNTRElGZ1VKT3lPYTFDUmlmNlhHTmswZVFDTTNuUGU1YXRCWXM2TXlzRk9vTlBPWmpzeFlxencwWGtWVEJPekdNZVMxejdFcUhuWTB0a0E9PQ,,
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
